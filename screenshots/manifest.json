@@ -1,0 +1,137 @@
+[
+  {
+    "task": 1,
+    "filename": "navbar_design.png",
+    "dimensions": [
+      1363,
+      936
+    ],
+    "bytes": 258350
+  },
+  {
+    "task": 2,
+    "filename": "signup_form_design.png",
+    "dimensions": [
+      1348,
+      1226
+    ],
+    "bytes": 301874
+  },
+  {
+    "task": 3,
+    "filename": "login_form_design.png",
+    "dimensions": [
+      1348,
+      1069
+    ],
+    "bytes": 279364
+  },
+  {
+    "task": 4,
+    "filename": "readme.md_file.png",
+    "dimensions": [
+      1348,
+      1961
+    ],
+    "bytes": 1065797
+  },
+  {
+    "task": 5,
+    "filename": "signup_validation.png",
+    "dimensions": [
+      1348,
+      1274
+    ],
+    "bytes": 375089
+  },
+  {
+    "task": 6,
+    "filename": "login_validation.png",
+    "dimensions": [
+      1348,
+      1005
+    ],
+    "bytes": 338085
+  },
+  {
+    "task": 7,
+    "filename": "logout_button.png",
+    "dimensions": [
+      1348,
+      926
+    ],
+    "bytes": 353340
+  },
+  {
+    "task": 8,
+    "filename": "docsearch_output.png",
+    "dimensions": [
+      1348,
+      1162
+    ],
+    "bytes": 284833
+  },
+  {
+    "task": 9,
+    "filename": "notification_integration.png",
+    "dimensions": [
+      1363,
+      936
+    ],
+    "bytes": 246772
+  },
+  {
+    "task": 10,
+    "filename": "instant_consultation.png",
+    "dimensions": [
+      1348,
+      942
+    ],
+    "bytes": 276079
+  },
+  {
+    "task": 11,
+    "filename": "disable_review-button.png",
+    "dimensions": [
+      1348,
+      1210
+    ],
+    "bytes": 321121
+  },
+  {
+    "task": 12,
+    "filename": "review_form.png",
+    "dimensions": [
+      1348,
+      1180
+    ],
+    "bytes": 327743
+  },
+  {
+    "task": 13,
+    "filename": "profilename_change.png",
+    "dimensions": [
+      1348,
+      1059
+    ],
+    "bytes": 254326
+  },
+  {
+    "task": 14,
+    "filename": "build.png",
+    "dimensions": [
+      1348,
+      1357
+    ],
+    "bytes": 448618
+  },
+  {
+    "task": 15,
+    "filename": "seo.png",
+    "dimensions": [
+      1363,
+      936
+    ],
+    "bytes": 350319
+  }
+]
